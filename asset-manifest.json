@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/parking_web/static/css/main.f6d05738.chunk.css",
+    "main.js": "/parking_web/static/js/main.864a7370.chunk.js",
+    "main.js.map": "/parking_web/static/js/main.864a7370.chunk.js.map",
+    "runtime-main.js": "/parking_web/static/js/runtime-main.d1b2d42a.js",
+    "runtime-main.js.map": "/parking_web/static/js/runtime-main.d1b2d42a.js.map",
+    "static/js/2.313c610e.chunk.js": "/parking_web/static/js/2.313c610e.chunk.js",
+    "static/js/2.313c610e.chunk.js.map": "/parking_web/static/js/2.313c610e.chunk.js.map",
+    "index.html": "/parking_web/index.html",
+    "precache-manifest.67d6ecf6a1e61c144b7d7efb229c2cfb.js": "/parking_web/precache-manifest.67d6ecf6a1e61c144b7d7efb229c2cfb.js",
+    "service-worker.js": "/parking_web/service-worker.js",
+    "static/css/main.f6d05738.chunk.css.map": "/parking_web/static/css/main.f6d05738.chunk.css.map",
+    "static/js/2.313c610e.chunk.js.LICENSE.txt": "/parking_web/static/js/2.313c610e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d1b2d42a.js",
+    "static/js/2.313c610e.chunk.js",
+    "static/css/main.f6d05738.chunk.css",
+    "static/js/main.864a7370.chunk.js"
+  ]
+}
