@@ -1,0 +1,140 @@
+.cont {
+    background-color: white;
+}
+
+.footer1 {
+    color: black;
+    background-color: #e6e6e6;
+}
+
+/* Crad page CSS */
+.cardh1 {
+    position: absolute;
+    top: 30%;
+    left: 38.5%;
+    color: white;
+    font-size: 50px;
+}
+.cardp1 {
+    position: absolute;
+    top: 40%;
+    left: 33%;
+    color: yellow;
+    font-size: 50px;
+}
+.cardimg {
+    width: 100%;
+    height: 600px;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+.icon1 {
+    position: fixed;
+    width: 50px;
+    height: 50px;
+    background: #27ae60;
+    bottom: 40px;
+    right: 50px;
+    z-index: 1000;
+
+    text-decoration: none;
+    text-align: center;
+    line-height: 50px;
+    color: white;
+    font-size: 22px;
+}
+
+h1 {
+    font-size: 45px;
+}
+h2 {
+    font-size: 30px;
+}
+p {
+    font-size: 17px;
+}
+.para1 {
+    letter-spacing: 0.1em;
+    text-align: justify;
+    font-size: 15px;
+}
+
+/* ------------------ Media Query --------------------------------------------------- */
+
+@media screen and (max-width: 420px) {
+    .cardh1 {
+        position: absolute;
+        top: 40%;
+        left: 30%;
+        color: white;
+        font-size: 30px;
+    }
+    .cardp1 {
+        position: absolute;
+        top: 46%;
+        left: 17%;
+        color: yellow;
+        font-size: 30px;
+    }
+    .cardimg {
+        width: 100%;
+        height: 200px;
+    }
+
+    h1 {
+        font-size: 30px;
+    }
+    h2 {
+        font-size: 20px;
+    }
+    p {
+        font-size: 17px;
+    }
+    .para1 {
+        letter-spacing: 0.1em;
+        text-align: justify;
+        font-size: 15px;
+    }
+}
+
+
+@media screen and (max-width: 320px) {
+    .cardh1 {
+        position: absolute;
+        top: 42%;
+        left: 23%;
+        color: white;
+        font-size: 30px;
+    }
+    .cardp1 {
+        position: absolute;
+        top: 50%;
+        left: 7%;
+        color: yellow;
+        font-size: 30px;
+    }
+    .cardimg {
+        width: 100%;
+        height: 200px;
+    }
+
+    h1 {
+        font-size: 30px;
+    }
+    h2 {
+        font-size: 20px;
+    }
+    p {
+        font-size: 17px;
+    }
+    .para1 {
+        letter-spacing: 0.1em;
+        text-align: justify;
+        font-size: 15px;
+    }
+}
+
+/* ---------------------------- End of Media Query --------------------------- */
